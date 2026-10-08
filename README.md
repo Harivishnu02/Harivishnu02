@@ -59,5 +59,3 @@
 **Network Engineer**, Tech Mahindra (BT Openreach) · **Junior Software Developer**, Tech Power Solution · **Associate System Analyst**, iMarque Solution (Salesforce CRM for banking)
 
 ---
-
-<p align="center"><i>Reliable beats flashy. Let's build something. ✨</i></p>
